@@ -2004,7 +2004,7 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-react-dom@^18.0.0-alpha-568dc3532:
+react-dom@18.0.0-alpha-568dc3532:
   version "18.0.0-alpha-568dc3532"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.0.0-alpha-568dc3532.tgz#b4575d5f7fbdfb83db2c06bee4ab4040f16fb44e"
   integrity sha512-Q8eeLund7J6r7nrYprr4/4Dr3QtfQ3O8bHtEDc1GDUu3JkKZu5/rTCITvdcHcs0QUKBDlfn/x2mBosRbBkB27A==
@@ -2023,7 +2023,7 @@ react-refresh@^0.9.0:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.9.0.tgz#71863337adc3e5c2f8a6bfddd12ae3bfe32aafbf"
   integrity sha512-Gvzk7OZpiqKSkxsQvO/mbTN1poglhmAV7gR/DdIrRrSMXraRQQlfikRJOr3Nb9GTMPC5kof948Zy6jJZIFtDvQ==
 
-react@^18.0.0-alpha-568dc3532:
+react@18.0.0-alpha-568dc3532:
   version "18.0.0-alpha-568dc3532"
   resolved "https://registry.yarnpkg.com/react/-/react-18.0.0-alpha-568dc3532.tgz#7b66ca7b68f9ee65751211601bfe52541bee33a2"
   integrity sha512-0mBgt3ILZoV1JQ5bohwI0vfyYxChmmY1u9g7Wg4ObnDci+nGrgtOAxRgyQMGYhV9da7yWgsIVJiKJFVFgVIVdA==
