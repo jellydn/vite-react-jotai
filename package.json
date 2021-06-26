@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "jotai": "1.1.0",
-    "react": "^18.0.0-alpha-568dc3532",
-    "react-dom": "^18.0.0-alpha-568dc3532"
+    "react": "18.0.0-alpha-e6be2d531",
+    "react-dom": "18.0.0-alpha-e6be2d531"
   },
   "devDependencies": {
     "@types/react": "17.0.8",
